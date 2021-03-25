@@ -1,0 +1,10 @@
+@font-face {
+   font-family: "OpenSans";
+   src: local("OpenSans"), url(./Fonts/OpenSans-Regular.ttf) format("truetype");
+}
+
+@font-face {
+   font-family: "OpenSans-SemiBold";
+   src: local("OpenSans-SemiBold"),
+      url(./Fonts/OpenSans-SemiBold.ttf) format("truetype");
+}
